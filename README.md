@@ -19,3 +19,6 @@ https://docs.microsoft.com/en-gb/archive/blogs/mlserver/r-server-and-shiny
 
 ### Learn Shiny 
 https://shiny.rstudio.com/tutorial/
+
+### Github repo example R Shiny App on Azure
+https://github.com/kwhitehall/Shiny_app_Azure
