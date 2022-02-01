@@ -26,3 +26,22 @@ https://github.com/kwhitehall/Shiny_app_Azure
 
 ### Enable virtual network integration in Azure App Service
 https://docs.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable
+
+### Rocker Shiny image + Tidyverse R packages.
+https://hub.docker.com/r/rocker/shiny-verse
+
+### Configure your App Service or Azure Functions app to use Azure AD login
+https://docs.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad
+
+### Use Key Vault references for App Service and Azure Functions
+https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
+
+### Docker Compose task
+https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/build/docker-compose?view=azure-devops
+
+### R Connect
+https://www.rstudio.com/products/connect/
+
+### API Management
+https://azure.microsoft.com/en-gb/services/api-management/#overview
+
