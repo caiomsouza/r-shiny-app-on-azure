@@ -8,8 +8,13 @@ https://docs.microsoft.com/en-gb/archive/blogs/uk_faculty_connection/design-agai
 https://docs.databricks.com/spark/latest/sparkr/shiny.html
 https://docs.microsoft.com/en-us/azure/databricks/spark/latest/sparkr/shiny
 
-### How to use containers in data science with Docker and Azure: Part 1
+### How to use containers in data science with Docker and Azure: Part 1, 2, 3, 4, 5 and 6
 https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2019/05/22/how-to-use-containers-part-1/
+https://cloudblogs.microsoft.com/industry-blog/en-gb/cross-industry/2019/05/31/how-to-use-containers-part-2/
+https://cloudblogs.microsoft.com/industry-blog/en-gb/cross-industry/2019/06/07/how-to-use-containers-in-data-science-with-docker-and-azure-part-3/
+https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2019/10/03/using-containers-to-run-r-shiny-workloads-in-azure-part-4/
+https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/27/building-scalable-data-science-applications-using-containers-part-5/
+https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/10/14/building-scalable-data-science-applications-using-containers-part-6/
 https://cloudblogs.microsoft.com/industry-blog/en-gb/author/jon/
 
 ### Deploying Dockerized R/Shiny Apps on Microsoft Azure the quick way
