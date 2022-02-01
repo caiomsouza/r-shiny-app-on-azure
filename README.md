@@ -10,6 +10,7 @@ https://docs.microsoft.com/en-us/azure/databricks/spark/latest/sparkr/shiny
 
 ### How to use containers in data science with Docker and Azure: Part 1
 https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2019/05/22/how-to-use-containers-part-1/
+https://cloudblogs.microsoft.com/industry-blog/en-gb/author/jon/
 
 ### Deploying Dockerized R/Shiny Apps on Microsoft Azure the quick way
 https://towardsdatascience.com/deploying-dockerized-r-shiny-apps-on-microsoft-azure-the-quick-way-b554ec6c6e2f
@@ -22,3 +23,6 @@ https://shiny.rstudio.com/tutorial/
 
 ### Github repo example R Shiny App on Azure
 https://github.com/kwhitehall/Shiny_app_Azure
+
+### Enable virtual network integration in Azure App Service
+https://docs.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable
